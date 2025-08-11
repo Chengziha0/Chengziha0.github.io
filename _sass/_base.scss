@@ -195,6 +195,11 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
