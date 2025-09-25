@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have 1 papers accepted by ACL 2025 Findings! This is my first submission! 
+We have 1 papers accepted by ACL 2025 Findings! This is my first submission!
