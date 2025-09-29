@@ -22,9 +22,9 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
-education: true # includes education section
-experience: true # includes experience section
-honors: true # includes honors & awards section
+education: false # includes education section
+experience: false # includes experience section
+honors: false # includes honors & awards section
 
 announcements:
   enabled: true # includes a list of news items
