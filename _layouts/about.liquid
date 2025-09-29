@@ -64,6 +64,19 @@ layout: default
       {% include education.liquid %}
     {% endif %}
 
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a
+          href="{{ '/publications/' | relative_url }}"
+          style="color: inherit"
+          >selected publications<br>
+        </a>
+        <span style="font-size:0.8rem; line-height:1.2; color:#666;"> * (co)-first author, † (co)-corresponding author </span><br>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
     <!-- Experience -->
     {% if page.experience %}
       <h2>
@@ -78,19 +91,6 @@ layout: default
         <a style="color: inherit">honors & awards</a>
       </h2>
       {% include honors.liquid %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a
-          href="{{ '/publications/' | relative_url }}"
-          style="color: inherit"
-          >selected publications<br>
-        </a>
-        <span style="font-size:0.8rem; line-height:1.2; color:#666;"> * (co)-first author, † (co)-corresponding author </span><br>
-      </h2>
-      {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Social -->
