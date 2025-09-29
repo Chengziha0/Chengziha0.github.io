@@ -23,8 +23,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 education: false # includes education section
-experience: false # includes experience section
-honors: false # includes honors & awards section
+experience: true # includes experience section
+honors: true # includes honors & awards section
 
 announcements:
   enabled: true # includes a list of news items
@@ -53,24 +53,3 @@ M.S. in Computer Science, Beijing, China
 B.S. in Computer Science, Beijing, China
 - School of Computer and Communication Engineering
 - GPA: 4.0/4.0, Rank: 1.6%
-
-## Experience
-
-**Baidu** (2024.11 - 2025.04)
-Research Intern, Natural Language Processing
-- Mentor: [Zheng-Yu Niu](https://scholar.google.com/citations?user=39NDcAcAAAAJ&hl=zh-CN) and [Xinchao Xu](https://aclanthology.org/people/xinchao-xu/)
-- Conducting research on natural language processing and large language models
-- Developing advanced NLP algorithms and applications
-
-**Meituan** (2025.04 - Present)
-Research Intern, Search & Recommendation Platform, AI Applications Group
-- Mentor: [Xiangrong Zhu](https://scholar.google.com/citations?user=949ZRQcAAAAJ&hl=zh-CN)
-- Working on search and recommendation systems using AI technologies
-- Developing and optimizing machine learning models for large-scale applications
-
-## Honors & Awards
-
-- Beijing Outstanding Graduate (Top 5%) (2025.06)
-- National Scholarship (Top 2%) (2024.11)
-- Huawei Intelligent Base Scholarship (2024.05)
-- National Scholarship (Top 2%) (2023.11)
