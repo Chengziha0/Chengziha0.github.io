@@ -40,3 +40,37 @@ latest_posts:
 I am currently a first-year master's student at the [IRIP Laboratory](https://irip.buaa.edu.cn/), [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under the supervision of Assistant Professor [Zeming Liu](https://shi.buaa.edu.cn/liuzeming/zh_CN/index/206018/list/index.htm). Prior to this, I obtained my bachelor's degree from the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) with a GPA of 4.0/4.0 (rank: 1.6%).
 
 My research interests primarily focus on post-training for AI agents, with particular emphasis on reinforcement learning-enhanced tool learning and multimodal agentic AI systems. I am passionate about developing intelligent agents that can effectively learn, adapt, and interact with complex environments through advanced training methodologies.
+
+## Education
+
+**Beihang University** (2025.09 - Present)
+M.S. in Computer Science, Beijing, China
+- School of Computer Science and Engineering
+- Advisor: Assistant Professor [Zeming Liu](https://shi.buaa.edu.cn/liuzeming/zh_CN/index/206018/list/index.htm)
+- Focus: Post-training for AI agents, Reinforcement Learning, Multimodal AI Systems
+
+**University of Science and Technology Beijing** (2021 - 2025)
+B.S. in Computer Science, Beijing, China
+- School of Computer and Communication Engineering
+- GPA: 4.0/4.0, Rank: 1.6%
+
+## Experience
+
+**Baidu** (2024.11 - 2025.04)
+Research Intern, Natural Language Processing
+- Mentor: [Zheng-Yu Niu](https://scholar.google.com/citations?user=39NDcAcAAAAJ&hl=zh-CN) and [Xinchao Xu](https://aclanthology.org/people/xinchao-xu/)
+- Conducting research on natural language processing and large language models
+- Developing advanced NLP algorithms and applications
+
+**Meituan** (2025.04 - Present)
+Research Intern, Search & Recommendation Platform, AI Applications Group
+- Mentor: [Xiangrong Zhu](https://scholar.google.com/citations?user=949ZRQcAAAAJ&hl=zh-CN)
+- Working on search and recommendation systems using AI technologies
+- Developing and optimizing machine learning models for large-scale applications
+
+## Honors & Awards
+
+- Beijing Outstanding Graduate (Top 5%) (2025.06)
+- National Scholarship (Top 2%) (2024.11)
+- Huawei Intelligent Base Scholarship (2024.05)
+- National Scholarship (Top 2%) (2023.11)
