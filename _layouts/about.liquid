@@ -38,15 +38,15 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
-
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+
+    <div class="clearfix">{{ content }}</div>
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
@@ -62,7 +62,7 @@ layout: default
         <a
           href="{{ '/publications/' | relative_url }}"
           style="color: inherit"
-          >selected publications<br>
+          >Selected Publications<br>
         </a>
         <span style="font-size:0.8rem; line-height:1.2; color:#666;"> * (co)-first author, † (co)-corresponding author </span><br>
       </h2>
@@ -72,7 +72,7 @@ layout: default
     <!-- Experience -->
     {% if page.experience %}
       <h2>
-        <a style="color: inherit">experience</a>
+        <a style="color: inherit">Experience</a>
       </h2>
       {% include experience.liquid %}
     {% endif %}
@@ -80,7 +80,7 @@ layout: default
     <!-- Honors & Awards -->
     {% if page.honors %}
       <h2>
-        <a style="color: inherit">honors & awards</a>
+        <a style="color: inherit">Honors & Awards</a>
       </h2>
       {% include honors.liquid %}
     {% endif %}
