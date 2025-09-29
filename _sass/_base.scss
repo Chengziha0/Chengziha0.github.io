@@ -190,6 +190,39 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// Education, Experience, Honors sections
+
+.education, .experience, .honors {
+  margin-top: 2rem;
+
+  .education-item, .experience-item, .honors-item {
+    margin-bottom: 1.5rem;
+
+    .education-header, .experience-header, .honors-header {
+      margin-bottom: 0.25rem;
+    }
+
+    .education-institution, .experience-institution, .honors-institution {
+      margin-bottom: 0.5rem;
+      color: var(--global-text-color-light);
+    }
+
+    .education-details, .experience-details {
+      margin-bottom: 0;
+      padding-left: 1.2rem;
+
+      li {
+        margin-bottom: 0.25rem;
+      }
+    }
+
+    .honors-description {
+      color: var(--global-text-color-light);
+      font-size: 0.9rem;
+    }
+  }
+}
+
 // Profile
 
 .profile {
