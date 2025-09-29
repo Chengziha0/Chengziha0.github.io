@@ -38,6 +38,8 @@ layout: default
       </div>
     {% endif %}
 
+    <div class="clearfix">{{ content }}</div>
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
@@ -46,14 +48,12 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
-
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
+    <!-- Education -->
+    {% if page.education %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a style="color: inherit">Education</a>
       </h2>
-      {% include latest_posts.liquid %}
+      {% include education.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
@@ -85,12 +85,12 @@ layout: default
       {% include honors.liquid %}
     {% endif %}
 
-    <!-- Education -->
-    {% if page.education %}
+    <!-- Latest posts -->
+    {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
-        <a style="color: inherit">education</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
-      {% include education.liquid %}
+      {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Social -->

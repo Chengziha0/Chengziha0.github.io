@@ -22,7 +22,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
-education: false # includes education section
+education: true # includes education section
 experience: true # includes experience section
 honors: true # includes honors & awards section
 
@@ -40,16 +40,3 @@ latest_posts:
 I am currently a first-year master's student at the [IRIP Laboratory](https://irip.buaa.edu.cn/), [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under the supervision of Assistant Professor [Zeming Liu](https://shi.buaa.edu.cn/liuzeming/zh_CN/index/206018/list/index.htm). Prior to this, I obtained my bachelor's degree from the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/) with a GPA of 4.0/4.0 (rank: 1.6%).
 
 My research interests primarily focus on post-training for AI agents, with particular emphasis on reinforcement learning-enhanced tool learning and multimodal agentic AI systems. I am passionate about developing intelligent agents that can effectively learn, adapt, and interact with complex environments through advanced training methodologies.
-
-## Education
-
-**Beihang University** (2025.09 - Present)
-M.S. in Computer Science, Beijing, China
-- School of Computer Science and Engineering
-- Advisor: Assistant Professor [Zeming Liu](https://shi.buaa.edu.cn/liuzeming/zh_CN/index/206018/list/index.htm)
-- Focus: Post-training for AI agents, Reinforcement Learning, Multimodal AI Systems
-
-**University of Science and Technology Beijing** (2021 - 2025)
-B.S. in Computer Science, Beijing, China
-- School of Computer and Communication Engineering
-- GPA: 4.0/4.0, Rank: 1.6%
