@@ -192,22 +192,31 @@ ul.task-list input[type="checkbox"] {
 
 // Education, Experience, Honors sections
 
-.education, .experience, .honors {
+.education,
+.experience,
+.honors {
   margin-top: 2rem;
 
-  .education-item, .experience-item, .honors-item {
+  .education-item,
+  .experience-item,
+  .honors-item {
     margin-bottom: 1.5rem;
 
-    .education-header, .experience-header, .honors-header {
+    .education-header,
+    .experience-header,
+    .honors-header {
       margin-bottom: 0.25rem;
     }
 
-    .education-institution, .experience-institution, .honors-institution {
+    .education-institution,
+    .experience-institution,
+    .honors-institution {
       margin-bottom: 0.5rem;
       color: var(--global-text-color-light);
     }
 
-    .education-details, .experience-details {
+    .education-details,
+    .experience-details {
       margin-bottom: 0;
       padding-left: 1.2rem;
 
