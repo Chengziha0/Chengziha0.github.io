@@ -402,6 +402,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-is-published-at-nature-communications-smile",
           title: 'Our paper is published at Nature Communications! :smile:',
           description: "",
+          section: "News",},{id: "news-we-launched-the-first-standardized-testing-website-for-traditional-chinese-medicine-tcm-eval-and-simultaneously-trained-a-sota-model-in-the-field-of-tcm",
+          title: 'We launched the first standardized testing website for Traditional Chinese Medicine – TCM-Eval,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
